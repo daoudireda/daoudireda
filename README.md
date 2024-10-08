@@ -7,6 +7,6 @@ I am a software engineer from the south of France, passionate about creating inn
 - 🌱 Currently diving into React Native, TypeScript, and Angular
 - ⚡ Love creating high-performance, scalable software.
 
-## How to reach me...
-- 📫 Email: daoudireda100@gmail.com
+## 📫 How to reach me...
+- Email: daoudireda100@gmail.com
 
