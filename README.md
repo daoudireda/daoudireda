@@ -23,5 +23,10 @@
 <h3 align="left">Weekly development breakdown:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daoudireda&show_icons=true&locale=en&layout=compact&theme=radical" alt="daoudireda" /></p>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
