@@ -28,7 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs          █████████████████████████   100.00 %
+Java         21 mins         █████████████████████████   99.99 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
