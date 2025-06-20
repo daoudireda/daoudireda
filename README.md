@@ -28,9 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           57 mins         ████████████████████████▓   99.29 %
-Docker         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java           22 mins         █████████████████████████   99.93 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
