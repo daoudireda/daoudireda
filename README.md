@@ -28,11 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-Batchfile         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-SQL               4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Java Properties   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Bash              3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
