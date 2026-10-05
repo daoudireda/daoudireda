@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reda</h1>
-<h3 align="center">I am a software engineer from the south of France, passionate about creating innovative solutions.</h3>
+<h3 align="center">I am a software engineer from France, passionate about creating innovative solutions.</h3>
 
-- 🔭 I’m currently working on **mobile app**
-
-- 🌱 I’m currently learning **React Native, TypeScript, and Angular**
+- 🔭 I’m currently working on **side project**
 
 - 👨‍💻 All of my projects are available at [https://daoudireda.github.io/](https://github.com/daoudireda)
 
